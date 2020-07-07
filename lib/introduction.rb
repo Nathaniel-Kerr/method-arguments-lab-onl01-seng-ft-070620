@@ -1,7 +1,5 @@
 # lib/introduction.rb
  
-def introduction(name + language)
-  name = josh 
-  language = 
+def introduction(name)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
